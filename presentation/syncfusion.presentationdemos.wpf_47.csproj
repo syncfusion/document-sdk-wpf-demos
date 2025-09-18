@@ -37,8 +37,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PresentationFramework.Aero" />
-    <Reference Include="Syncfusion.Chart.WPF.SampleLayout">
-    </Reference>
     <Reference Include="Syncfusion.Compression.Base" />
     <Reference Include="Syncfusion.OfficeChart.Base">
     </Reference>

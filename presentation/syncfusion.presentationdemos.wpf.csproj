@@ -39,9 +39,6 @@
     <Compile Remove="Views\*" />
     <Compile Remove="PresentationDemosViewModel.cs" />
 
-    <Reference Include="Syncfusion.Chart.WPF.SampleLayout">
-      <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\$(TargetFramework)\Syncfusion.Chart.WPF.SampleLayout.dll</HintPath>
-    </Reference>
     <Reference Include="Syncfusion.Compression.Base">
       <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\$(TargetFramework)\Syncfusion.Compression.Base.dll</HintPath>
     </Reference>
